@@ -29,5 +29,7 @@ TabLayout+ViewPager+Fragment成为了实现如下效果的标配
 
 ## <font color=#C4573C size=5 face="黑体">参考链接</font>
 [VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout)
+
 [VerticalViewPager](https://github.com/castorflex/VerticalViewPager)
+
 [android design library提供的TabLayout的用法](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0731/3247.html)
