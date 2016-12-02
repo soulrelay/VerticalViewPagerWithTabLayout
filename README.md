@@ -3,19 +3,18 @@
 
 TabLayout+ViewPager+Fragment成为了实现如下效果的标配
 （效果图来自 暴风体育Android APP）
-<center>
 ![这里写图片描述](http://img.blog.csdn.net/20161110133406619)
-</center>
+
 
 不过这不是重点，重点是我们要实现的下图所示效果：垂直的TabLayout以及垂直的ViewPager，并完成二者的联动：
-<center>
+
 ![这里写图片描述](http://img.blog.csdn.net/20161110113746524)
-</center>
+
 
 下面这张是我分享的Demo示意图：
-<center>
+
 ![这里写图片描述](http://img.blog.csdn.net/20161110113759680)
-</center>
+
 
 ## <font color=#C4573C size=5 face="黑体">问题</font>
 这里不对相关代码做过多说明，使用的Github上造好的轮子，然后根据自己的业务需求做的相关改动，因为时间比较紧，这里聊聊期间碰到的困难
