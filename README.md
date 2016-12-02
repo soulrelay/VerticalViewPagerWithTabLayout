@@ -13,7 +13,6 @@ TabLayout+ViewPager+Fragment成为了实现如下效果的标配
 </center>
 
 下面这张是我分享的Demo示意图：
-
 <center>
 ![这里写图片描述](http://img.blog.csdn.net/20161110113759680)
 </center>
