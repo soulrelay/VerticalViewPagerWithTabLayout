@@ -3,17 +3,17 @@
 
 TabLayout+ViewPager+Fragment成为了实现如下效果的标配
 （效果图来自 暴风体育Android APP）
-![这里写图片描述](http://img.blog.csdn.net/20161110133406619)
+![这里写图片描述](https://github.com/soulrelay/VerticalViewPagerWithTabLayout/blob/master/sample/src/main/res/raw/1.gif)
 
 
 不过这不是重点，重点是我们要实现的下图所示效果：垂直的TabLayout以及垂直的ViewPager，并完成二者的联动：
 
-![这里写图片描述](http://img.blog.csdn.net/20161110113746524)
+![这里写图片描述](https://github.com/soulrelay/VerticalViewPagerWithTabLayout/blob/master/sample/src/main/res/raw/2.gif)
 
 
 下面这张是我分享的Demo示意图：
 
-![这里写图片描述](http://img.blog.csdn.net/20161110113759680)
+![这里写图片描述](https://github.com/soulrelay/VerticalViewPagerWithTabLayout/blob/master/sample/src/main/res/raw/3.gif)
 
 
 ## <font color=#C4573C size=5 face="黑体">问题</font>
