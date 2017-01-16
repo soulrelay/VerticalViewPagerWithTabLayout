@@ -18,7 +18,7 @@
             android:layout_weight="1"
             android:background="#EDEDED"
             android:visibility="visible"
-            app:indicator_color="#FFFFFF"
+            app:indicator_color="@color/colorAccent"
             app:indicator_gravity="fill"
             app:tab_height="50dp"
             app:tab_mode="scrollable" />
